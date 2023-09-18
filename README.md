@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @user4mir
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how be better
-- 📫 you can reach me from my email
+
 
 <!---
 user4mir/user4mir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
